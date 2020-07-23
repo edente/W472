@@ -25,11 +25,13 @@ h1{
    font-size: 18pt;
    font-family: Lucida Sans Unicode, Helvetica, Arial, sans-serif;
    color:#A4A400 ;
-    background-color: #F0F0F0;
+   text-shadow: teal;
+   background-color: #F0F0F0;
 }
  span {
     font-weight: bold;
   
+  text-size-adjust: 200em;
  }
  .p1 {
      font-style: italic;
