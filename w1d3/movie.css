@@ -4,6 +4,23 @@ body{
 	margin:0;
 
 }
+
+
+div {
+	border: 1px solid black;
+	margin-left: 5px;
+	margin-bottom: 5px;
+}
+#b {
+	position: absolute;
+	top: 0px;
+	bottom: 0px;
+	right: 0px;
+	width: 200px;
+}
+
+
+
 dd{
 	margin-left:3em;
 	margin-bottom:10pt;
